@@ -1,0 +1,5 @@
+0000000001|                                                             Felipe Gavilán|0000002500
+0000000002|                                                          Claudia Rodríguez|0000015500
+0000000003|                                                           Roberto Gonzalez|0000004200
+0000000004|                                                              Mariana Reyes|0000003900
+0000000005|                                                              Arturo Aristy|0000005000
