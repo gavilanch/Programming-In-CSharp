@@ -1,0 +1,7 @@
+{
+  "name": "Felipe",
+  "age": 999,
+  "addresses": [
+    {"street": "my street"}
+  ]
+}
